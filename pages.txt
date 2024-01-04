@@ -1,0 +1,7 @@
+- Login Page
+    - Register Page
+- Home Page
+- Groups Page
+    - Join Groups Page
+    - Display members Page
+- Grocery list Page

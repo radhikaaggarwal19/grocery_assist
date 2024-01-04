@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "297335374803",
+    "project_id": "grocery-assist-8186c",
+    "storage_bucket": "grocery-assist-8186c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297335374803:android:464f72cfd08c94ef15a526",
+        "android_client_info": {
+          "package_name": "com.RadhikaAggarwal.grocery_assist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx-cMjRAhgStljLvOEgkJ9jbOtNNix-m0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
